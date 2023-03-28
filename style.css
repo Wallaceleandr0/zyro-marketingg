@@ -209,6 +209,9 @@ header img {
 .flex-ul {
     display: flex;
     flex-wrap: wrap;
+    max-width: 800px;
+    margin: 40px auto;
+    justify-content: space-around;
 }
 
 .profissionais h2 {
