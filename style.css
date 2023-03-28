@@ -197,6 +197,41 @@ header img {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.profissionais {
+    background-color: black;
+}
+
+.flex-ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.profissionais ul {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.profissionais ul img {
+    max-width: 400px;
+}
+
+.profissionais ul li {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    gap: 5px;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.circulo {
+    height: 10px;
+    border-radius: 50%;
+    width: 10px;
+    background-color: #d59e02;
+}
+
 @media(max-width: 645px) {
     .teste {
         margin-top: 120px;
