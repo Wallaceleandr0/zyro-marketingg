@@ -30,7 +30,6 @@ header img {
     background-repeat: no-repeat;
     background-position: center;
     padding: 20px;
-    height: 450px;
 }
 
 .container-box-top {
@@ -189,21 +188,17 @@ header img {
     font-size: 17px;
     font-weight: 600;
     font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
 }
 
 #paragrafo-como {
     font-size: 15px;
-    margin-top: 19px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 @media(max-width: 645px) {
     .teste {
         margin-top: 120px;
-    }
-
-    .container-top {
-        height: 350px;
     }
 
     .container-banner {
@@ -218,21 +213,11 @@ header img {
         font-size: 20px;
     }
 
-    /* .container-top {
-        min-height: 600px;
-    } */
-
     /* .mkt-center {
         text-align: start;
     } */
 
     .container-box-top h2 {
         font-size: 28px;
-    }
-}
-
-@media(max-width: 420px) {
-    .container-top {
-        height: 450px;
     }
 }
