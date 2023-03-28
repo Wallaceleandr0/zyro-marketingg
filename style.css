@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+img {
+    width: 100%;
+}
+
 body {
     height: 3000px;
 }
@@ -159,6 +163,7 @@ header img {
     justify-content: space-around;
     flex-wrap: wrap;
     gap: 20px;
+    padding: 20px 20px 75px 20px;
 }
 
 .container-como {
@@ -198,7 +203,7 @@ header img {
 }
 
 .profissionais {
-    background-color: black;
+    background-image: linear-gradient(90deg, black, rgb(39, 32, 32));
 }
 
 .flex-ul {
@@ -206,8 +211,12 @@ header img {
     flex-wrap: wrap;
 }
 
+.profissionais h2 {
+    text-align: center;
+    padding: 0;
+}
+
 .profissionais ul {
-    max-width: 400px;
     margin: 0 auto;
 }
 
