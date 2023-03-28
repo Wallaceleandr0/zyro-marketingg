@@ -118,7 +118,7 @@ header img {
 }
 
 .crescer h3 {
-    margin-top: 25px;
+    margin-top: 15px;
     font-size: 35px;
     color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -135,7 +135,65 @@ header img {
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-top: 20px;
+    margin-bottom: 20px;
     color: #fff;
+}
+
+.como-funciona {
+    background-image: linear-gradient(150deg, rgba(24, 24, 24, 0.952) ,rgb(0, 0, 0));
+    background-color: black;
+}
+
+.como-funciona h2 {
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 35px;
+    text-align: center;
+}
+
+.global-container-como {
+    display: flex;
+    max-width: 600px;
+    margin: 0 auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.container-como {
+    background-color: rgb(39, 35, 35);
+    max-width: 210px;
+    text-align: center;
+    color: #fff;
+    min-height: 250px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.container-como img {
+    max-width: 60px;
+    margin-top: 20px;
+}
+
+#clientes-como {
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#lucrativos-como {
+    color: #d59e02;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#paragrafo-como {
+    font-size: 15px;
+    margin-top: 19px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 @media(max-width: 576px) {
