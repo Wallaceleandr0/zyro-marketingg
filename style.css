@@ -9,7 +9,7 @@
     height: 60px;
     bottom: 20px;
     right: 10px;
-    background-color: #25b366;
+    background-color: #0a8106;
     color: #fff;
     border-radius: 50px;
     text-align: center;
@@ -124,6 +124,10 @@ header img {
     transform: scale(1.08);
     color: #fff;
     background-color: #0a8106;
+}
+
+.div-padding-botao {
+    padding: 10px;
 }
 
 #red-top {
