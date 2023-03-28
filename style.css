@@ -97,12 +97,14 @@ header img {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 40px;
     color: #fff;
+    text-align: center;
 }
 
 .container-banner p {
     font-size: 25px;
     color: #fff;
-    margin-top: 65px;
+    margin-top: 50px;
+    text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -119,7 +121,7 @@ header img {
     margin-top: 40px;
     font-size: 35px;
     color: #fff;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #p-crescer-1 {
