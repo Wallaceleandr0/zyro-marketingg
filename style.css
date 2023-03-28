@@ -30,6 +30,7 @@ header img {
     background-repeat: no-repeat;
     background-position: center;
     padding: 20px;
+    max-height: 450px;
 }
 
 .container-box-top {
