@@ -32,9 +32,17 @@ img {
     width: 100%;
 }
 
-body {
-    height: 3000px;
+iframe {
+    margin-top: 40px;
+    border-radius: 5px;
+    border: 2px solid #d59e02;
+    width: 100%;
+    max-width: 600px;
 }
+
+/* body {
+    height: 3000px;
+} */
 
 header {
     display: flex;
@@ -260,7 +268,7 @@ header img {
 .flex-ul {
     display: flex;
     flex-wrap: wrap;
-    max-width: 800px;
+    max-width: 1000px;
     margin: 40px auto;
     justify-content: space-around;
 }
@@ -268,6 +276,7 @@ header img {
 .profissionais h2 {
     text-align: center;
     padding: 0;
+    font-size: 45px;
     padding-top: 25px;
 }
 
@@ -276,7 +285,7 @@ header img {
 }
 
 .profissionais ul img {
-    max-width: 400px;
+    max-width: 500px;
 }
 
 .profissionais ul li {
@@ -285,14 +294,14 @@ header img {
     align-items: center;
     gap: 5px;
     color: #fff;
-    font-size: 18px;
+    font-size: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .circulo {
-    height: 10px;
+    height: 20px;
     border-radius: 50%;
-    width: 10px;
+    width: 20px;
     background-color: #d59e02;
 }
 
