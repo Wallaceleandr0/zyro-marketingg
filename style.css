@@ -89,7 +89,7 @@ header img {
     margin: 30px auto;
     display: block;
     /* border: 2px solid #d59e02; */
-    background-color: #19ba14;
+    background-color: #0a8106;
     padding: 15px;
     text-decoration: none;
     color: #fff;
@@ -102,7 +102,7 @@ header img {
 .container-box-top a:hover {
     transform: scale(1.08);
     color: #fff;
-    background-color: #0a8106;
+    background-color: #19ba14;
 }
 
 #botao-verde {
@@ -110,7 +110,7 @@ header img {
     margin: 30px auto;
     display: block;
     /* border: 2px solid #d59e02; */
-    background-color: #19ba14;
+    background-color: #0a8106;
     padding: 15px;
     text-decoration: none;
     color: #fff;
@@ -123,7 +123,7 @@ header img {
 #botao-verde:hover{
     transform: scale(1.08);
     color: #fff;
-    background-color: #0a8106;
+    background-color: #19ba14;
 }
 
 .div-padding-botao {
